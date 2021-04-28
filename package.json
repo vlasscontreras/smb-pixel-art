@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Super Mario Bros. NES replicated in CSS.",
   "main": "index.html",
+  "scripts": {
+    "dev": "sass --watch src/scss/app.scss dist/css/app.css",
+    "build": "sass --no-source-map --style=compressed src/scss/app.scss dist/css/app.css"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vlasscontreras/smb-pixel-art.git"
@@ -19,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/vlasscontreras/smb-pixel-art/issues"
   },
-  "homepage": "https://github.com/vlasscontreras/smb-pixel-art#readme"
+  "homepage": "https://github.com/vlasscontreras/smb-pixel-art#readme",
+  "devDependencies": {
+    "sass": "^1.32.11"
+  }
 }
