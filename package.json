@@ -1,0 +1,23 @@
+{
+  "name": "smb-pixel-art",
+  "version": "1.0.0",
+  "description": "Super Mario Bros. NES replicated in CSS.",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlasscontreras/smb-pixel-art.git"
+  },
+  "keywords": [
+    "pixelart",
+    "nes",
+    "super",
+    "mario",
+    "bros"
+  ],
+  "author": "Vlass Contreras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vlasscontreras/smb-pixel-art/issues"
+  },
+  "homepage": "https://github.com/vlasscontreras/smb-pixel-art#readme"
+}
