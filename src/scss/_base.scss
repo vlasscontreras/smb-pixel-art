@@ -1,15 +1,15 @@
 .grid {
-	display: grid;
-	grid-auto-columns: min-content;
-	grid-auto-flow: column;
+  display: grid;
+  grid-auto-columns: min-content;
+  grid-auto-flow: column;
 }
 
 .block {
-	display: inline-block;
-	height: 1px;
-	margin-bottom: 16px;
-	margin-left: -1px;
-	margin-right: 16px;
-	margin-top: -1px;
-	width: 1px;
+  display: inline-block;
+  height: 1px;
+  margin-bottom: 16px;
+  margin-left: -1px;
+  margin-right: 16px;
+  margin-top: -1px;
+  width: 1px;
 }
